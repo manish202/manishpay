@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manishpay/static/css/main.2bc6d721.css",
+    "main.js": "/manishpay/static/js/main.17daea99.js",
+    "index.html": "/manishpay/index.html",
+    "main.2bc6d721.css.map": "/manishpay/static/css/main.2bc6d721.css.map",
+    "main.17daea99.js.map": "/manishpay/static/js/main.17daea99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bc6d721.css",
+    "static/js/main.17daea99.js"
+  ]
+}
