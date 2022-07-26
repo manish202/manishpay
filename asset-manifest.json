@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/manishpay/static/css/main.2bc6d721.css",
-    "main.js": "/manishpay/static/js/main.17daea99.js",
+    "main.js": "/manishpay/static/js/main.91e7acbf.js",
     "index.html": "/manishpay/index.html",
     "main.2bc6d721.css.map": "/manishpay/static/css/main.2bc6d721.css.map",
-    "main.17daea99.js.map": "/manishpay/static/js/main.17daea99.js.map"
+    "main.91e7acbf.js.map": "/manishpay/static/js/main.91e7acbf.js.map"
   },
   "entrypoints": [
     "static/css/main.2bc6d721.css",
-    "static/js/main.17daea99.js"
+    "static/js/main.91e7acbf.js"
   ]
 }
